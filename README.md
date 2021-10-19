@@ -1,1 +1,1 @@
-This is Bo's fisrt git project!
+This is Bo's first git project!
